@@ -163,6 +163,113 @@ body {
    background-color: #44acc4;
 }
 
+.chanah-nyc a,
+.chanah-nyc a * {
+    color: #f09638;
+    display: inline-block;
+}
+.chanah-nyc #burger1,
+.chanah-nyc #burger2,
+.chanah-nyc #burger3,
+.chanah-nyc #menu  {
+    background-color: #f09638;
+}
+
+.dwell-realty a,
+.dwell-realty a * {
+    color: #ed6459;
+    display: inline-block;
+}
+.dwell-realty #burger1,
+.dwell-realty #burger2,
+.dwell-realty #burger3,
+.dwell-realty #menu  {
+    background-color: #ed6459;
+}
+
+.greater-vancouver-luxury-homes a,
+.greater-vancouver-luxury-homes a * {
+    color: #f1cc7a;
+    display: inline-block;
+}
+.greater-vancouver-luxury-homes #burger1,
+.greater-vancouver-luxury-homes #burger2,
+.greater-vancouver-luxury-homes #burger3,
+.greater-vancouver-luxury-homes #menu  {
+    background-color: #f1cc7a;
+}
+
+.heather-house-sits a,
+.heather-house-sits a * {
+    color: #b8e1c3;
+    display: inline-block;
+}
+.heather-house-sits #burger1,
+.heather-house-sits #burger2,
+.heather-house-sits #burger3,
+.heather-house-sits #menu  {
+    background-color: #b8e1c3;
+}
+
+.positive-teaching-strategies a,
+.positive-teaching-strategies a * {
+    color: #52adc6;
+    display: inline-block;
+}
+.positive-teaching-strategies #burger1,
+.positive-teaching-strategies #burger2,
+.positive-teaching-strategies #burger3,
+.positive-teaching-strategies #menu  {
+    background-color: #52adc6;
+}
+
+.rose-city-marauders a,
+.rose-city-marauders a * {
+    color: #4eaad9;
+    display: inline-block;
+}
+.rose-city-marauders #burger1,
+.rose-city-marauders #burger2,
+.rose-city-marauders #burger3,
+.rose-city-marauders #menu  {
+    background-color: #4eaad9;
+}
+
+.secure-holdings a,
+.secure-holdings a * {
+    color: #2f669e;
+    display: inline-block;
+}
+.secure-holdings #burger1,
+.secure-holdings #burger2,
+.secure-holdings #burger3,
+.secure-holdings #menu  {
+    background-color: #2f669e;
+}
+
+.stephanie-connects a,
+.stephanie-connects a * {
+    color: #4371b2;
+    display: inline-block;
+}
+.stephanie-connects #burger1,
+.stephanie-connects #burger2,
+.stephanie-connects #burger3,
+.stephanie-connects #menu  {
+    background-color: #4371b2;
+}
+
+.utopia-day-spa-salon a,
+.utopia-day-spa-salon a * {
+    color: #bfd82f;
+    display: inline-block;
+}
+.utopia-day-spa-salon #burger1,
+.utopia-day-spa-salon #burger2,
+.utopia-day-spa-salon #burger3,
+.utopia-day-spa-salon #menu  {
+    background-color: #bfd82f;
+}
 
 
 

@@ -29,7 +29,7 @@
 <script>
 
 $(document).ready(function(){
-	$('#headshot').delay(500).animate({'height':200, 'width':200, 'margin-left':0, 'margin-top':0, 'opacity': 1}, 500, function(){
+	$('#headshot').delay(500).animate({'width':200, 'margin-left':0, 'margin-top':0, 'opacity': 1}, 500, function(){
 		$('#name').animate({'margin-right':0, 'opacity': 1}, 400, function(){
 			$('#title').animate({'margin-right':0, 'opacity': 1}, 400, function(){
 				$('#phone').animate({'margin-right':0, 'opacity': 1}, 400, function(){
