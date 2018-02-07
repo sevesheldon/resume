@@ -63,4 +63,4 @@ $(document).ready(function(){
 
 
 </style>
-<?php get_footer(); ?>
+
